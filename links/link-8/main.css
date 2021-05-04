@@ -4,7 +4,7 @@
 
 body {
   margin:0;
-  background-image: linear-gradient(180deg, #ff7f51, #ce4257, #720026);
+  background-image: linear-gradient(180deg, #ecc30b, #067bc2, #26408b);
 }
 
 .grid-container {
@@ -17,7 +17,7 @@ body {
 .column {
   display: flex;
   height: 100%;
-  width: 23%;
+  width: 37%;
 }
 
 .grid {
